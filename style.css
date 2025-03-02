@@ -1,5 +1,5 @@
 header{
-    background-color: hwb(240 0% 48%);
+    background-color: #0054a2;
     padding: 10px 15px;
 }
 
@@ -12,12 +12,14 @@ header{
     display: flex;
     flex-direction: row;
     background-size: auto;
-    background-color: hwb(240 0% 48%);
+    background-color:#0054a2;
 }
 
 .heroTitle{
     padding-left: 30px;
     color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
 }
 
 .button{
