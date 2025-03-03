@@ -6,12 +6,15 @@ header{
 .mainImg {
     height: 100px;
     width: 100px;
+    background-color: white;
+    border-radius: 20%;
+    padding: 5px 5px;
 }
 
 .hero{
     display: flex;
     flex-direction: row;
-    background-size: auto;
+    background-size: cover;
     background-color:#0054a2;
 }
 
@@ -31,4 +34,18 @@ header{
 
 .button:hover{
     color:black;
+}
+
+.hyperlink{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.motto {
+    color: white;
+    font-family:'Instrument-inter', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 5px;
+
 }
