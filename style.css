@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
 header{
     background-color: #0054a2;
     padding: 10px 15px;
@@ -46,6 +51,6 @@ header{
 .motto {
     color: white;
     font-family:'Instrument-inter', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    height: 5px;
+
 
 }
