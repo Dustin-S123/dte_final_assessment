@@ -72,7 +72,7 @@ header{
 
 footer{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: #0054a2;
     margin: 0;
     padding: 50px 50px;
@@ -82,5 +82,13 @@ footer{
 .footerText{
     align-items: left;
     color:white;
+}
 
+.button1{
+    color:white;
+}
+
+.footer2div{
+    flex-direction: column;
+    padding-left:25px;
 }
