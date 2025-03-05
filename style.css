@@ -69,3 +69,18 @@ header{
     font-size: 15px;
     padding: 15px 20px;
 }
+
+footer{
+    display: flex;
+    flex-direction: column;
+    background-color: #0054a2;
+    margin: 0;
+    padding: 50px 50px;
+    color:white;
+}
+
+.footerText{
+    align-items: left;
+    color:white;
+
+}
