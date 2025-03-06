@@ -92,3 +92,28 @@ footer{
     flex-direction: column;
     padding-left:25px;
 }
+
+.group1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+img{
+    width: 250px;
+    height: auto;
+    padding:15px 20px;
+}
+.activityImg {
+    width: 330px;
+    height: 290px;
+    border-radius: 4px 4px 0px 0px;
+    object-fit: cover;
+    object-position: 0;
+}
+
+.activityImg:hover{
+    opacity: 75%;
+}
