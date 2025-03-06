@@ -107,8 +107,8 @@ img{
     padding:15px 20px;
 }
 .activityImg {
-    width: 330px;
-    height: 290px;
+    width: 350px;
+    height: 300px;
     border-radius: 4px 4px 0px 0px;
     object-fit: cover;
     object-position: 0;
@@ -116,4 +116,10 @@ img{
 
 .activityImg:hover{
     opacity: 75%;
+}
+
+.activityText{
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
 }
