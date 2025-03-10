@@ -121,6 +121,10 @@ img{
 
 }
 
+.staffImg:hover{
+    opacity: 85%;
+}
+
 .stafftext{
     margin-left: 20px;
 }
@@ -139,3 +143,4 @@ img{
     padding-top: 25px;
     padding: 15px 20px;
 }
+
