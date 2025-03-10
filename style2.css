@@ -110,6 +110,7 @@ img{
 .staffDTE{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     padding: 50px 50px;
     justify-content: center;
 
@@ -127,6 +128,7 @@ img{
 .staffGEO{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     padding: 15px 20px;
     justify-content: center;
 }
