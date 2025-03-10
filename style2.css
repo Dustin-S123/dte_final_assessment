@@ -120,7 +120,13 @@ img{
 
 }
 
-.staffDTEtext{
+.stafftext{
     margin-left: 20px;
 }
 
+.staffGEO{
+    display: flex;
+    flex-direction: row;
+    padding: 15px 20px;
+    justify-content: center;
+}
