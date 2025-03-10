@@ -144,3 +144,8 @@ img{
     padding: 15px 20px;
 }
 
+.titleTable{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
