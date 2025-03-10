@@ -106,3 +106,20 @@ img{
     height: auto;
     padding:15px 20px;
 }
+
+.staffDTE{
+    display: flex;
+    flex-direction: row;
+    padding: 50px 50px;
+    justify-content: center;
+
+}
+
+.staffImg{
+    border-radius: 18%;
+
+}
+
+.staffDTEtext{
+    margin-left: 20px;
+}
