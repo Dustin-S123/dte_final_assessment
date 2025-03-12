@@ -83,6 +83,15 @@ footer{
     color:white;
 }
 
+.footerButton{
+    align-items: left;
+    color:white;
+}
+
+.footerButton:hover{
+    color: black;
+}
+
 .button1{
     color:white;
 }

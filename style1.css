@@ -84,6 +84,15 @@ footer{
     color:white;
 }
 
+.footerButton{
+    align-items: left;
+    color:white;
+}
+
+.footerButton:hover{
+    color: black;
+}
+
 .button1{
     color:white;
 }
@@ -124,3 +133,4 @@ img{
     font-size: 25px;
     margin-left: 20px;
 }
+
