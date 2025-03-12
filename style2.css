@@ -84,8 +84,13 @@ footer{
     color:white;
 }
 
-.button1{
+.footerButton{
+    align-items: left;
     color:white;
+}
+
+.footerButton:hover{
+    color: black;
 }
 
 .footer2div{
