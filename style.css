@@ -76,6 +76,7 @@ footer{
     margin: 0;
     padding: 50px 50px;
     color:white;
+    justify-content: space-around;
 }
 
 .footerText{
