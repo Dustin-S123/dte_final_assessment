@@ -1,8 +1,10 @@
+/*This is to make the page have no margin*/
 *{
     margin:0;
     padding: 0;
     box-sizing: border-box;
 }
+
 header{
     background-color: rgb(0, 84, 162);
     padding: 10px 15px;
@@ -104,7 +106,7 @@ footer{
     flex-direction: column;
     padding-left:25px;
 }
-
+/*This is the div class code for all the groups on the sport page*/
 .group1{
     display: flex;
     flex-direction: row;
@@ -113,12 +115,13 @@ footer{
     justify-content: center;
     padding-bottom: 20px;
 }
-
+/*crops and resizes the images on sports page to all have the same appearance*/
 img{
     width: 250px;
     height: auto;
     padding:15px 20px;
 }
+
 .activityImg {
     width: 350px;
     height: 300px;
@@ -126,7 +129,7 @@ img{
     object-fit: cover;
     object-position: 0;
 }
-
+/*adds a hover effect to make the website feel more responsive*/
 .activityImg:hover{
     opacity: 90%;
 }
