@@ -105,10 +105,6 @@ footer{
     color:white;
 }
 
-.footer2div{
-    flex-direction: column;
-    margin: 0;
-}
 /*Adds a padding around the edge of the carousel*/
 .carousel{
     padding-left:15px;
