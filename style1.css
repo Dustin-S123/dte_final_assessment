@@ -83,6 +83,15 @@ header{
     margin-right: 35px;
 }
 
+.sportInfo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    padding: 15px 20px;
+    margin-left:35px;
+    margin-right: 35px;
+    color: rgb(0, 84, 162);
+}
+
 footer{
     display: flex;
     flex-direction: row;
@@ -143,8 +152,9 @@ img{
 }
 
 .activityText{
-    color:black;
+    color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 25px;
     margin-left: 20px;
 }
+
