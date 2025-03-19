@@ -125,12 +125,17 @@ img{
 
 .staffImg:hover{
     opacity: 92%;
-
 }
 
 .stafftext{
     margin-left: 20px;
 }
+
+.stafftextGEO{
+    margin-left: 20px;
+    padding-left: 15px;
+}
+
 /*flexbox code for geography teachers*/
 .staffGEO{
     display: flex;
@@ -144,6 +149,7 @@ img{
     font-family:sans-serif;
     font-size: 40px;
     padding-top: 25px;
+    padding-left: 10px;
 }
 /*centres the title text*/
 .titleTable{
