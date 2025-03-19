@@ -95,12 +95,10 @@ footer{
 }
 
 .footerText{
-    align-items: left;
     color:white;
 }
 
 .footerButton{
-    align-items: left;
     color:white;
 }
 
@@ -138,7 +136,7 @@ img{
     object-fit: cover;
     object-position: 0;
 }
-/*adds a hover effect to make the website feel more responsive*/
+/*adds a hover effect to make the website feel more interactive*/
 .activityImg:hover{
     box-shadow: 0 8px 16px 0 #1f1f1f;
 }
