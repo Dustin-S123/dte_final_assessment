@@ -129,19 +129,18 @@ footer{
 img{
     width: 250px;
     height: auto;
-    padding:15px 20px;
+    margin: 10px 10px;
 }
 
 .activityImg {
     width: 350px;
     height: 300px;
-    border-radius: 4px 4px 0px 0px;
     object-fit: cover;
     object-position: 0;
 }
 /*adds a hover effect to make the website feel more responsive*/
 .activityImg:hover{
-    opacity: 90%;
+    box-shadow: 0 8px 16px 0 #1f1f1f;
 }
 
 .activityText{
