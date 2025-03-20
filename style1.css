@@ -144,7 +144,7 @@ img{
     height: 300px;
     object-fit: cover;
     object-position: 0;
-    transition-duration: 0.3s;
+    transition-duration: 0.5s;
 }
 /*adds a hover effect to make the website feel more interactive*/
 .activityImg:hover{
