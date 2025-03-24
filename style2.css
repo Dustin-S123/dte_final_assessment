@@ -23,10 +23,11 @@ header{
     flex-direction: row;
     background-size: cover;
     background-color:rgb(0, 84, 162);
+    flex-wrap: wrap;
 }
 
 .heroTitle{
-    padding-left: 30px;
+    padding-left: 15px;
     color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 45px;
@@ -55,7 +56,7 @@ header{
 .motto {
     color: white;
     font-family:'Instrument-inter', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding-left:10px;
+    padding-left:15px;
     padding-top: 12px;
 }
 
