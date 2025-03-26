@@ -112,7 +112,7 @@ img{
 }
 /*adds a curve to the images so it stands out and looks cleaner*/
 .staffImg{
-    border-radius: 23%;
+    border-radius: 15%;
     padding-top: 0;
     margin: 15px;
 }
