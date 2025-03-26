@@ -114,11 +114,10 @@ img{
 .staffImg{
     border-radius: 23%;
     padding-top: 0;
-    transition-duration: 0.5s;
     margin: 15px;
 }
 /*adds a hover effect to make the website feel more interactive*/
-.staffImg:hover{
+.textBackground:hover{
     box-shadow: 0 8px 16px 0 #1f1f1f;
 }
 .stafftext{
@@ -160,4 +159,5 @@ img{
     flex-direction: column;
     align-items: center;
     margin:5px 5px;
+    transition-duration: 0.5s;
 }
