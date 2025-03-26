@@ -105,7 +105,7 @@ footer{
 img{
     width: 250px;
     height: auto;
-    padding:15px 20px;
+    margin: 15px;
 }
 /*flexbox code for the digital technology teachers*/
 .staffDTE{
@@ -118,18 +118,23 @@ img{
 }
 /*adds a curve to the images so it stands out and looks cleaner*/
 .staffImg{
-    border-radius: 18%;
+    border-radius: 23%;
     padding-top: 0;
+    transition-duration: 0.5s;
 }
-
-
+/*adds a hover effect to make the website feel more interactive*/
+.staffImg:hover{
+    box-shadow: 0 8px 16px 0 #1f1f1f;
+}
 .stafftext{
     margin-left: 20px;
+    font-size:16px;
 }
 
 .stafftextGEO{
     margin-left: 20px;
     padding-left: 15px;
+    font-size: 15px;
 }
 
 /*flexbox code for geography teachers*/
