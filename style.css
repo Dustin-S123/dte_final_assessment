@@ -108,7 +108,7 @@ footer{
 
 /*Adds a padding around the edge of the carousel*/
 .carousel{
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     padding-left: 15px;
     padding-right: 15px;
     min-width: 200px;
