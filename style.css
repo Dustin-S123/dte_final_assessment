@@ -114,3 +114,14 @@ footer{
     min-width: 220px;
     max-width: 1000px;
 }
+
+@media screen and (max-width: 580px) {
+    footer {
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+
+
+}
