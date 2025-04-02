@@ -116,10 +116,6 @@ img{
     padding-top: 0;
     margin: 15px;
 }
-/*adds a hover effect to make the website feel more interactive*/
-.textBackground:hover{
-    box-shadow: 0 8px 16px 0 #1f1f1f;
-}
 .stafftext{
     font-size:17px;
 }
@@ -160,6 +156,11 @@ img{
     align-items: center;
     margin:5px 5px;
     transition-duration: 0.5s;
+}
+
+/*adds a hover effect to make the website feel more interactive*/
+.textBackground:hover{
+    box-shadow: 0 8px 16px 0 #1f1f1f;
 }
 
 /*If a screen is smaller than 580px it adjusts the footer to this code, so it fits their screen nicely*/
