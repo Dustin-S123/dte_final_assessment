@@ -169,4 +169,13 @@ img{
         flex-direction: column;
         padding-left: 15px;
     }
+    .hover{
+        padding-right: 355px;
+    }
+    .hover2{
+        padding-right: 452px;
+    }
+    .hover3{
+        padding-right: 480px;
+    }
 }
