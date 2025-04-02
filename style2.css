@@ -161,3 +161,12 @@ img{
     margin:5px 5px;
     transition-duration: 0.5s;
 }
+
+/*If a screen is smaller than 580px it adjusts the footer to this code, so it fits their screen nicely*/
+@media screen and (max-width: 580px) {
+    footer {
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+    }
+}

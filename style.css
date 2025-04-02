@@ -114,7 +114,7 @@ footer{
     min-width: 220px;
     max-width: 1000px;
 }
-
+/*If a screen is smaller than 580px it adjusts the footer to this code, so it fits their screen nicely*/
 @media screen and (max-width: 580px) {
     footer {
         display: flex;
