@@ -52,6 +52,11 @@ header{
     color:black;
 }
 
+/*Gives hover effect to all hyperlinks in the header*/
+.button1:hover{
+    color:black;
+}
+
 .hyperlink{
     padding-top: 10px;
     padding-bottom: 5px;
