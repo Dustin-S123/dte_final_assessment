@@ -59,7 +59,7 @@ header{
     flex-direction: row;
     flex-wrap: wrap;
 }
-
+/*Motto css for the header*/
 .motto {
     color: white;
     font-family:'Instrument-inter', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
